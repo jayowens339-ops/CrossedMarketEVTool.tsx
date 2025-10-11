@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import CrossedMarketEVTool from "@/components/CrossedMarketEVTool";
+import CrossedMarketEVTool from "../components/CrossedMarketEVTool"; // ← changed
 
 export default function Page() {
   return (
